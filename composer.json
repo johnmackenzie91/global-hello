@@ -1,0 +1,10 @@
+{
+    "name": "pc/global-hello",
+    "authors": [
+        {
+            "name": "John Mackenzie",
+            "email": "johnmackenziewebdeveloper@gmail.com"
+        }
+    ],
+    "require": {}
+}
